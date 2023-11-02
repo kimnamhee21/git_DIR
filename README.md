@@ -1,1 +1,1 @@
-# git_DIR
+Hello,Git!
